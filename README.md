@@ -18,14 +18,14 @@ We spect a more robust behavior by the quantum kernel as dimensionality increase
 
 ## Technologies
 
-System  information:
-
+### System  information:
+|---|---|
 |Python version|	3.7.12|
 |Python compiler|	GCC 7.5.0|
 |Python build|	default, Sep 10 2021 00:21:48|
 |OS|	Linux|
 
-Qiskit packages information: 
+### Qiskit packages information: 
 
 |  Qiskit Software | Version |
 |---|---|
