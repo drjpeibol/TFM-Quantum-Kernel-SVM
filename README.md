@@ -17,7 +17,7 @@ In our work we'll focus on how dimensionality can affect the time required to tr
 We spect a more robust behavior by the quantum kernel as dimensionality increases. 
 
 ## Technologies
-|System  information|
+|System  information| |
 |---|---|
 |Python version|	3.7.12|
 |Python compiler|	GCC 7.5.0|
