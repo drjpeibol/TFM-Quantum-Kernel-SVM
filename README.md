@@ -46,3 +46,4 @@ This paper is the result of my Master's thesis. You can find the PDF version [he
 ## Contact 
 
 * Email: pablo.serranom@estudiante.uam.es
+* LinkedIn: www.linkedin.com/in/pablo-serrano-molinero
