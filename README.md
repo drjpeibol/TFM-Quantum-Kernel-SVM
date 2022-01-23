@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#Setup)
+* [Paper](#Paper)
 
 
 ## General info
@@ -16,12 +16,12 @@ In our work we'll focus on how dimensionality can affect the time required to tr
 We spect a more robust behavior by the quantum kernel as dimensionality increases. 
 
 ## Technologies
-
-Project is created with:
+Required technologies:
 * Python version: 3.X
 * Qiskit version: XX.XX
 * Qiskit_Machine_Learning: XX.XX
 
-## Setup
 
+## Paper
 
+This paper is the result of my Master's thesis. You can find the PDF version [here]
