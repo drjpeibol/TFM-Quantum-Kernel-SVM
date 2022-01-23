@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Paper](#Paper)
+* [Contact](#Contact)
 
 
 ## General info
@@ -25,3 +26,7 @@ Required technologies:
 ## Paper
 
 This paper is the result of my Master's thesis. You can find the PDF version [here]
+
+## Contact 
+
+* Email: pablo.serranom@estudiante.uam.es
