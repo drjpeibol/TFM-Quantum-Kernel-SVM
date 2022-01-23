@@ -22,6 +22,6 @@ Project is created with:
 * Qiskit version: XX.XX
 * Qiskit_Machine_Learning: XX.XX
 
-# Setup
+## Setup
 
 
