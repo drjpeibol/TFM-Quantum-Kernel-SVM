@@ -19,7 +19,7 @@ We spect a more robust behavior by the quantum kernel as dimensionality increase
 ## Technologies
 
 ### System  information:
-|||
+|Component|Version|
 |---|---|
 |Python version|	3.7.12|
 |Python compiler|	GCC 7.5.0|
