@@ -18,28 +18,16 @@ We spect a more robust behavior by the quantum kernel as dimensionality increase
 
 ## Technologies
 
-|  Qiskit |  Software	Version |
+|  Qiskit Software | Version |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-Qiskit Software	Version
-qiskit-terra	0.18.3
-qiskit-aer	0.9.1
-qiskit-ignis	0.6.0
-qiskit-ibmq-provider	0.17.0
-qiskit-aqua	0.9.5
-qiskit	0.31.0
-qiskit-nature	0.2.2
-qiskit-finance	0.2.1
-qiskit-optimization	0.2.3
-qiskit-machine-learning	0.2.1
+|  qiskit-terra |  0.18.3 |
+|  qiskit-aer | 0.9.1 |
+|  qiskit-ignis |  0.6.0 |
+|  qiskit-ibmq-provider |  0.17.0 |
+|  qiskit-aqua |  0.9.5 |
+|  qiskit |  0.31.0 |
+|  qiskit-nature |  0.2.2 |
+|  qiskit-machine-learning | 0.2.1 |
 
 
 ## Paper
