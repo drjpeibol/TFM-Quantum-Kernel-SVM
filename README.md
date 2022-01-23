@@ -6,8 +6,14 @@
 
 
 ## General info
-Project description
-	
+This project's motivation is to study the viability of quantum computing in machine learning algorithm's training proccess. We'll study its use in classification problems and Suppor Vector Machines. 
+
+We'll use the work developed by Havlíček, V., Córcoles, A.D., Temme, K. et al in their publication "Supervised learning with quantum-enhanced feature spaces". Nature 567, 209–212 (2019) as the baseline for our studies.
+
+In our work we'll focus on how dimensionality can affect the time required to train a SVM classifier. For this purpouse we'll train an SVM using both classical and quantum kernels an compare the change in training times when we increase dimensionality.
+
+We spect a more robust behavior by the quantum kernel when we have high dimensionality. 
+
 ## Technologies
 Project is created with:
 * Python version: 3.X
