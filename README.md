@@ -26,7 +26,6 @@ We spect a more robust behavior by the quantum kernel as dimensionality increase
 |  qiskit-ibmq-provider |  0.17.0 |
 |  qiskit-aqua |  0.9.5 |
 |  qiskit |  0.31.0 |
-|  qiskit-nature |  0.2.2 |
 |  qiskit-machine-learning | 0.2.1 |
 
 
