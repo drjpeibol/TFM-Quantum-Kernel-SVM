@@ -36,7 +36,7 @@ In our work, quantum support vector machines with quantum kernels were implement
 
 ## Paper
 
-This paper is the result of my Master's thesis. You can find the PDF version [here] (Resources/TFM_Pablo_Serrano.pdf)
+This paper is the result of my Master's thesis. You can find the PDF version [here](Resources/TFM_Pablo_Serrano.pdf)
 
 ## Contact 
 
