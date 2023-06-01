@@ -12,31 +12,26 @@ This project's motivation is to study the viability of quantum computing in mach
 
 We'll use the work developed by Havlíček, V., Córcoles, A.D., Temme, K. et al in their publication ["Supervised learning with quantum-enhanced feature spaces". Nature 567, 209–212 (2019)](https://arxiv.org/pdf/1804.11326.pdf) as the baseline for our studies.
 
-In our work we'll focus on how dimensionality can affect the time required to train a SVM classifier. For this purpouse we'll train an SVM using both classical and quantum kernels an compare the change in training times when we increase dimensionality.
-
-We spect a more robust behavior by the quantum kernel as dimensionality increases. 
+In our work, quantum support vector machines with quantum kernels were implemented and compared with their classical counterparts. The findings demonstrate the potential of quantum support vector machines as powerful tools in data classification, laying the foundation for future research and advancements in this exciting field of quantum computing and machine learning.
 
 ## Technologies
 
 ### System  information:
 |Component|Version|
 |---|---|
-|Python version|	3.7.12|
-|Python compiler|	GCC 7.5.0|
-|Python build|	default, Sep 10 2021 00:21:48|
+|Python version|	3.10.8|
+|Python compiler|	GCC 10.4.0|
 |OS|Linux|
 
 ### Qiskit packages information: 
 
 |  Qiskit Software | Version |
 |---|---|
-|  qiskit-terra |  0.18.3 |
-|  qiskit-aer | 0.9.1 |
-|  qiskit-ignis |  0.6.0 |
-|  qiskit-ibmq-provider |  0.17.0 |
-|  qiskit-aqua |  0.9.5 |
-|  qiskit |  0.31.0 |
-|  qiskit-machine-learning | 0.2.1 |
+|  qiskit-terra |  0.24.0 |
+|  qiskit-aer | 0.12.0 |
+|  qiskit-ibmq-provider |  0.20.2 |
+|  qiskit |  0.43.0 |
+|  qiskit-machine-learning | 0.6.0 |
 
 
 ## Paper
