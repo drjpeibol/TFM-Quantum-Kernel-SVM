@@ -1,5 +1,7 @@
 # TFM-Quantum-Kernel-SVM
 
+![Alt text](Resources/QML.jpeg)
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -34,9 +36,9 @@ In our work, quantum support vector machines with quantum kernels were implement
 |  qiskit-machine-learning | 0.6.0 |
 
 
-## Paper
+## Master's thesis
 
-This paper is the result of my Master's thesis. You can find the PDF version [here](Resources/TFM_Pablo_Serrano.pdf)
+This repository contains all the code developed in my Master's thesis. You can find the PDF version of my thesis [here](Resources/TFM_Pablo_Serrano.pdf)
 
 ## Contact 
 
